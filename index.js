@@ -57,4 +57,11 @@ const lista = [
     dni:43872165,
   }
   ,
+  {
+    nombre: "Brian",
+    apellido: "Sfintzi",
+    experienciaJs: false,
+    experienciaVersionado: false,
+    dni: 39457408,
+  }
 ];
