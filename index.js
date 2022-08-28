@@ -7,20 +7,20 @@ const lista = [
     dni: 29502368,
   },
   {
-<<<<<<< HEAD
     nombre: "Matias",
     apellido: "Alvarez",
     experienciaJs: true,
     experienciaVersionado: true,
     dni: 99999999,
-=======
+  },
+  {
     nombre: "Terrens",
     apellido: "Javier",
     experienciaJs: true,
     experienciaVersionado: true,
     dni: 33257631,
   },
-{
+  {
     nombre: "Ezequiel",
     apellido: "Ilivitzky",
     experienciaJs: true,
@@ -32,7 +32,7 @@ const lista = [
     apellido: "Rinaldi",
     experienciaJs: true,
     experienciaVersionado: true,
-    dni: 44110736
+    dni: 44110736,
   },
   {
     nombre: "Javier",
@@ -48,7 +48,7 @@ const lista = [
     experienciaVersionado: true,
     dni: 38087951,
   },
-  
+
   {
     nombre: "Iván",
     apellido: "Laborde",
@@ -61,15 +61,13 @@ const lista = [
     apellido: "Nobati",
     experienciaJs: true,
     experienciaVersionado: false,
-    dni:43872165,
-  }
-  ,
+    dni: 43872165,
+  },
   {
     nombre: "Brian",
     apellido: "Sfintzi",
     experienciaJs: false,
     experienciaVersionado: false,
     dni: 39457408,
->>>>>>> a4a882cd10a9a1ac5d2d5e1f92e4fbb2a965f1f0
-  }
+  },
 ];
