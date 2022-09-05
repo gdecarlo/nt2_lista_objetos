@@ -83,5 +83,12 @@ const lista = [
     experienciaJs: false,
     experienciaVersionado: false,
     dni: 40011974,
+  },
+  {
+    nombre: "Lucio",
+    apellido: "Garcia",
+    experienciaJs: false,
+    experienciaVersionado: false,
+    dni: 44260258,
   }
 ];
